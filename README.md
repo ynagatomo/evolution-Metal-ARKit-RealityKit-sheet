@@ -9,7 +9,7 @@ Please modify it as you like. CC0
 - File [PDF](files/evolution_of_visionOS_2023.pdf)
 - File [Keynote](files/evolution_of_visionOS_2023.key)
 
-![Image](files/evolution_of_visionOS_2023b.png)
+![Image](files/evolution_of_visionOS_2023.png)
 
 ## iOS / iPadOS Ver. 2023
 
