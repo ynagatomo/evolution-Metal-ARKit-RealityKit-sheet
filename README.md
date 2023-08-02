@@ -25,4 +25,13 @@ Please modify it as you like. CC0
 
 ![Image](files/evolution_of_ARKit_RealityKit_Metal_2022.png)
 
+## MaterialX Nodes in RealityKit
+
+This document summarizes MaterialX Specification v1.38 and MaterialX Supplemental Notes v1.38, and describes the Standard MaterialX Nodes and RealityKit Custom Nodes.
+It also shows correspondence between MaterialX Standard Nodes and RealityKit implementation.<br><br>
+Information about RealityKit is based on the visionOS beta. It may change with the release.
+
+- File [PDF](files/MaterialXNodesInRealityKit_R01.pdf)
+- File [Numbers](files/MaterialXNodesInRealityKit_R01.numbers)
+
 License: CC0
