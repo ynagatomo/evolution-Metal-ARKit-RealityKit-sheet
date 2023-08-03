@@ -18,12 +18,14 @@ Please modify it as you like. CC0
 
 ![Image](files/evolution_of_ARKit_RealityKit_Metal_2023b.png)
 
+<!--
 ## iOS / iPadOS Ver. 2022
 
 - File [PDF](files/evolution_of_ARKit_RealityKit_Metal_2022.pdf)
 - File [Keynote](files/evolution_of_ARKit_RealityKit_Metal_2022.key)
 
 ![Image](files/evolution_of_ARKit_RealityKit_Metal_2022.png)
+-->
 
 ## MaterialX Nodes in RealityKit
 
@@ -31,7 +33,9 @@ This document summarizes MaterialX Specification v1.38 and MaterialX Supplementa
 It also shows correspondence between MaterialX Standard Nodes and RealityKit implementation.<br><br>
 Information about RealityKit is based on the visionOS beta. It may change with the release.
 
-- File [PDF](files/MaterialXNodesInRealityKit_R01.pdf)
-- File [Numbers](files/MaterialXNodesInRealityKit_R01.numbers)
+- File [PDF](files/MaterialXNodesInRealityKit_R01a.pdf)
+- File [Numbers](files/MaterialXNodesInRealityKit_R01a.numbers)
+
+![Image](files/MaterialXNodesInRealityKit_R01a.png)
 
 License: CC0
