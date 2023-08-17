@@ -44,8 +44,8 @@ This document shows the preset parameters of the Particle System in the Reality 
 
 * Since this information is based on the beta software, the content may be changed when releasing the version 1.0.
 
-- File [PDF](files/PresetParticlesInRealityComposerProR202308.pdf)
-- File [Keynote](files/PresetParticlesInRealityComposerProR202308.key)
+- File [PDF](files/PresetParticlesInRealityComposerProR202308a.pdf)
+- File [Keynote](files/PresetParticlesInRealityComposerProR202308a.key)
 
 ![Image](files/PresetParticlesInRealityComposerPro.png)
 
