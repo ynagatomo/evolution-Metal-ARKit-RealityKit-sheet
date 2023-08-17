@@ -27,6 +27,18 @@ Please modify it as you like. CC0
 ![Image](files/evolution_of_ARKit_RealityKit_Metal_2022.png)
 -->
 
+## Asset creation workflow for AR apps
+
+The diagram shows the asset creation workflow for AR apps in iOS / iPadOS / visionOS.
+
+- File [PNG](files/assets_workflow_r2.png)
+- File [draw.io](files/assets_workflow_r2.drawio)
+
+* The draw.io is free online / macOS app diagram software for making diagrams. https://app.diagrams.net
+* I'll rewrite the diagram with Keynote in the future.
+
+![Image](files/assets_workflow_r2.png)
+
 ## MaterialX Nodes in RealityKit
 
 This document summarizes MaterialX Specification v1.38 and MaterialX Supplemental Notes v1.38, and describes the Standard MaterialX Nodes and RealityKit Custom Nodes.
