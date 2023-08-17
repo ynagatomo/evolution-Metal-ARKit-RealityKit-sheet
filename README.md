@@ -1,6 +1,6 @@
-# Evolution of Metal, ARKit, and RealityKit Sheet
+# Evolution of Metal, ARKit, and RealityKit
 
-This sheet shows the evolution of Apple frameworks - Metal, ARKit, and RealityKit.
+This diagram shows the evolution of Apple frameworks - Metal, ARKit, and RealityKit.
 
 Please modify it as you like. CC0
 
@@ -34,7 +34,7 @@ The diagram shows the asset creation workflow for AR apps in iOS / iPadOS / visi
 - File [PNG](files/assets_workflow_r2.png)
 - File [draw.io](files/assets_workflow_r2.drawio)
 
-* The draw.io is free online / macOS app diagram software for making diagrams. https://app.diagrams.net
+* The draw.io is free online / macOS app software for making diagrams. https://app.diagrams.net
 * I'll rewrite the diagram with Keynote in the future.
 
 ![Image](files/assets_workflow_r2.png)
@@ -60,5 +60,11 @@ This document shows the preset parameters of the Particle System in the Reality 
 - File [Keynote](files/PresetParticlesInRealityComposerProR202308b.key)
 
 ![Image](files/PresetParticlesInRealityComposerPro.png)
+
+## Related documents
+
+- Swift SIMD/simd Type Cheat-sheet: https://github.com/ynagatomo/Swift-SIMD-Types-Cheat-Sheet
+
+## License
 
 License: CC0
