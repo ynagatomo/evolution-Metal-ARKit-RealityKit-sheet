@@ -52,14 +52,15 @@ Information about RealityKit is based on the visionOS beta. It may change with t
 
 ## Particle System in the Reality Composer Pro
 
-This document shows the preset parameters of the Particle System in the Reality Composer Pro.
+This document shows the overview of the RealityKit Particle System and the preset particles' parameters.
+The explanation of each parameter is from Apple API documentation.
 
 * Since this information is based on the beta software, the content may be changed when releasing the version 1.0.
 
-- File [PDF](files/PresetParticlesInRealityComposerProR202308b.pdf)
-- File [Keynote](files/PresetParticlesInRealityComposerProR202308b.key)
+- File [PDF](files/PresetParticlesInRealityComposerProR202308c.pdf)
+- File [Keynote](files/PresetParticlesInRealityComposerProR202308c.key)
 
-![Image](files/PresetParticlesInRealityComposerPro.png)
+![Image](files/PresetParticlesInRealityComposerProR202308c.png)
 
 ## Related documents
 
