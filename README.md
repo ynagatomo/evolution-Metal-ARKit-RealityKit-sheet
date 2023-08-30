@@ -57,8 +57,8 @@ The explanation of each parameter is from Apple API documentation.
 
 * Since this information is based on the beta software, the content may be changed when releasing the version 1.0.
 
-- File [PDF](files/PresetParticlesInRealityComposerProR202308c.pdf)
-- File [Keynote](files/PresetParticlesInRealityComposerProR202308c.key)
+- File [PDF](files/PresetParticlesInRealityComposerProR202308d.pdf)
+- File [Keynote](files/PresetParticlesInRealityComposerProR202308d.key)
 
 ![Image](files/PresetParticlesInRealityComposerProR202308c.png)
 
