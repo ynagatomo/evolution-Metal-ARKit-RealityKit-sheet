@@ -1,17 +1,20 @@
-# Evolution of Metal, ARKit, and RealityKit
+# Materials about RealityKit in iOS/iPadOS/visionOS
+
+
+## Evolution of Metal, ARKit, and RealityKit
 
 This diagram shows the evolution of Apple frameworks - Metal, ARKit, and RealityKit.
 
 Please modify it as you like. CC0
 
-## visionOS Ver. 2023
+### visionOS Ver. 2023
 
 - File [PDF](files/evolution_of_visionOS_2023.pdf)
 - File [Keynote](files/evolution_of_visionOS_2023.key)
 
 ![Image](files/evolution_of_visionOS_2023.png)
 
-## iOS / iPadOS Ver. 2023
+### iOS / iPadOS Ver. 2023
 
 - File [PDF](files/evolution_of_ARKit_RealityKit_Metal_2023a.pdf)
 - File [Keynote](files/evolution_of_ARKit_RealityKit_Metal_2023a.key)
@@ -61,6 +64,20 @@ The explanation of each parameter is from Apple API documentation.
 - File [Keynote](files/PresetParticlesInRealityComposerProR202308d.key)
 
 ![Image](files/PresetParticlesInRealityComposerProR202308c.png)
+
+
+## Presentation Materials
+
+### visionOS Meetup: ShaderGraph in RealityKit
+
+- Sep 27, 2023, English version
+- File [PDF](files/shaderGraphInRK_2023en.pdf)
+- File [Numbers](files/shaderGraphInRK_2023en.key)
+
+![Image](files/shaderGraphInRK_2023en.png)
+
+
+
 
 ## Related documents
 
