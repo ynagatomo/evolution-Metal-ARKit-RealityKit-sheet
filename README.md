@@ -70,9 +70,12 @@ The explanation of each parameter is from Apple API documentation.
 
 ### visionOS Meetup: ShaderGraph in RealityKit
 
-- Sep 27, 2023, English version
+- Sep 27, 2023
 - File [PDF](files/shaderGraphInRK_2023en.pdf)
 - File [Numbers](files/shaderGraphInRK_2023en.key)
+
+- File (Japanese) [PDF](files/shaderGraphInRK_2023.pdf)
+- File (Japanese) [Numbers](files/shaderGraphInRK_2023.key)
 
 ![Image](files/shaderGraphInRK_2023en.png)
 
