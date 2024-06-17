@@ -39,16 +39,18 @@ Please modify and use them as you like. CC0
 
 This diagram shows the asset creation workflow for AR apps in iOS / iPadOS / visionOS.
 
+It illustrates very basic tools.
+You can use other tools such as InstaMAT for material creation, Spline for 3d scene creation, and EmberGen / After Effects for texture creation.
+You can also use Game Engine's built-in tools.
+They are not included in this diagram.
+
 <details>
 <summary> Asset creation workflow (Click to expand) </summary>
 
-- File [PNG](files/assets_workflow_r2.png)
-- File [draw.io](files/assets_workflow_r2.drawio)
+- File [PDF](files/assetCreationWorkflow2024.pdf)
+- File [Keynote](files/assetCreationWorkflow2024.key)
 
-* The draw.io is free online / macOS app software for making diagrams. https://app.diagrams.net
-* I'll rewrite the diagram with Keynote in the future.
-
-![Image](files/assets_workflow_r2.png)
+![Image](files/assetCreationWorkflow2024.png)
 
 </details>
 
