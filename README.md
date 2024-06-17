@@ -1,38 +1,46 @@
 # Materials about RealityKit in iOS/iPadOS/visionOS
 
+Here are several materials about Metal, ARKit, and RealityKit in iOS/iPadOS/visionOS.
 
-## Evolution of Metal, ARKit, and RealityKit
 
-This diagram shows the evolution of Apple frameworks - Metal, ARKit, and RealityKit.
+## Progress of Metal, ARKit, and RealityKit frameworks
 
-Please modify it as you like. CC0
+These diagrams show the progress of Apple Metal, ARKit, and RealityKit frameworks in iOS/iPadOS and visionOS.
 
-### visionOS Ver. 2023
+Please modify and use them as you like. CC0
 
-- File [PDF](files/evolution_of_visionOS_2023a.pdf)
-- File [Keynote](files/evolution_of_visionOS_2023a.key)
+### Progress in visionOS, 2024
 
-![Image](files/evolution_of_visionOS_2023a.png)
+<details>
+<summary> Progress of Metal, ARKit, and RealityKit (Click to expand) </summary>
 
-### iOS / iPadOS Ver. 2023
+- File [PDF](files/progressOfvisionOS2024.pdf)
+- File [Keynote](files/progressOfvisionOS2024.key)
 
-- File [PDF](files/evolution_of_ARKit_RealityKit_Metal_2023a.pdf)
-- File [Keynote](files/evolution_of_ARKit_RealityKit_Metal_2023a.key)
+![Image](files/progressOfvisionOS2024.png)
 
-![Image](files/evolution_of_ARKit_RealityKit_Metal_2023a.png)
+</details>
 
-<!--
-## iOS / iPadOS Ver. 2022
 
-- File [PDF](files/evolution_of_ARKit_RealityKit_Metal_2022.pdf)
-- File [Keynote](files/evolution_of_ARKit_RealityKit_Metal_2022.key)
+### Progress in iOS / iPadOS, 2024
 
-![Image](files/evolution_of_ARKit_RealityKit_Metal_2022.png)
--->
+<details>
+<summary> Progress of Metal, ARKit, and RealityKit (Click to expand) </summary>
+
+- File [PDF](files/progressOfMetalARKitRealityKit2024.pdf)
+- File [Keynote](files/progressOfMetalARKitRealityKit2024.key)
+
+![Image](files/progressOfMetalARKitRealityKit2024.png)
+
+</details>
+
 
 ## Asset creation workflow for AR apps
 
-The diagram shows the asset creation workflow for AR apps in iOS / iPadOS / visionOS.
+This diagram shows the asset creation workflow for AR apps in iOS / iPadOS / visionOS.
+
+<details>
+<summary> Asset creation workflow (Click to expand) </summary>
 
 - File [PNG](files/assets_workflow_r2.png)
 - File [draw.io](files/assets_workflow_r2.drawio)
@@ -42,16 +50,25 @@ The diagram shows the asset creation workflow for AR apps in iOS / iPadOS / visi
 
 ![Image](files/assets_workflow_r2.png)
 
+</details>
+
+
 ## MaterialX Nodes in RealityKit
 
 This document summarizes MaterialX Specification v1.38 and MaterialX Supplemental Notes v1.38, and describes the Standard MaterialX Nodes and RealityKit Custom Nodes.
 It also shows correspondence between MaterialX Standard Nodes and RealityKit implementation.<br><br>
 Information about RealityKit is based on the visionOS beta. It may change with the release.
 
+<details>
+<summary> Asset creation workflow (Click to expand) </summary>
+
 - File [PDF](files/MaterialXNodesInRealityKit_R01a.pdf)
 - File [Numbers](files/MaterialXNodesInRealityKit_R01a.numbers)
 
 ![Image](files/MaterialXNodesInRealityKit_R01a.png)
+
+</details>
+
 
 ## Particle System in the Reality Composer Pro
 
@@ -60,15 +77,25 @@ The explanation of each parameter is from Apple API documentation.
 
 * Since this information is based on the beta software, the content may be changed when releasing the version 1.0.
 
+<details>
+<summary> Asset creation workflow (Click to expand) </summary>
+
 - File [PDF](files/PresetParticlesInRealityComposerProR202308d.pdf)
 - File [Keynote](files/PresetParticlesInRealityComposerProR202308d.key)
 
 ![Image](files/PresetParticlesInRealityComposerProR202308c.png)
 
+</details>
+
 
 ## Presentation Materials
 
 ### visionOS Meetup: ShaderGraph in RealityKit
+
+This is a presentation slide about ShaderGraph materials in visionOS.
+
+<details>
+<summary> Asset creation workflow (Click to expand) </summary>
 
 - Sep 27, 2023
 - File [PDF](files/shaderGraphInRK_2023en.pdf)
@@ -79,7 +106,7 @@ The explanation of each parameter is from Apple API documentation.
 
 ![Image](files/shaderGraphInRK_2023en.png)
 
-
+</details>
 
 
 ## Related documents
