@@ -47,10 +47,10 @@ They are not included in this diagram.
 <details>
 <summary> Asset creation workflow (Click to expand) </summary>
 
-- File [PDF](files/assetCreationWorkflow2024_r2.pdf)
-- File [Keynote](files/assetCreationWorkflow2024_r2.key)
+- File [PDF](files/assetCreationWorkflow2024_r3.pdf)
+- File [Keynote](files/assetCreationWorkflow2024_r3.key)
 
-![Image](files/assetCreationWorkflow2024_r2.png)
+![Image](files/assetCreationWorkflow2024_r3.png)
 
 </details>
 
