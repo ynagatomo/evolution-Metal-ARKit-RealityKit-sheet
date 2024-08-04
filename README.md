@@ -54,6 +54,18 @@ They are not included in this diagram.
 
 </details>
 
+When exporting USDZ from Blender to Reality Composer Pro (RCP), you need to convert the orientation from Z-up in Blender to Y-up in RCP.
+You have two options to do the conversion. See the pros and cons of them.
+
+<details>
+<summary> 3D Model Orientation Conversion From Blender (Z-up) to RCP (Y-up) (Click to expand) </summary>
+
+- File [PDF](files/modelConversionFromBlenderToRCP_r1)
+- File [Keynote](files/modelConversionFromBlenderToRCP_r1.key)
+
+![Image](files/modelConversionFromBlenderToRCP_r1.png)
+
+</details>
 
 ## MaterialX Nodes in RealityKit
 
