@@ -11,29 +11,35 @@ Please modify and use them as you like. CC0
 
 ### Progress in visionOS, 2024
 
+<!--
 <details>
 <summary> Progress of Metal, ARKit, and RealityKit (Click to expand) </summary>
+-->
 
 - File [PDF](files/progressOfvisionOS2024.pdf)
 - File [Keynote](files/progressOfvisionOS2024.key)
 
 ![Image](files/progressOfvisionOS2024.png)
 
+<!--
 </details>
-
+-->
 
 ### Progress in iOS / iPadOS, 2024
 
+<!--
 <details>
 <summary> Progress of Metal, ARKit, and RealityKit (Click to expand) </summary>
+-->
 
-- File [PDF](files/progressOfMetalARKitRealityKit2024a.pdf)
-- File [Keynote](files/progressOfMetalARKitRealityKit2024a.key)
+- File [PDF](files/progressOfMetalARKitRealityKit2024b.pdf)
+- File [Keynote](files/progressOfMetalARKitRealityKit2024b.key)
 
-![Image](files/progressOfMetalARKitRealityKit2024a.png)
+![Image](files/progressOfMetalARKitRealityKit2024b.png)
 
+<!--
 </details>
-
+-->
 
 ## Asset creation workflow for AR apps
 
