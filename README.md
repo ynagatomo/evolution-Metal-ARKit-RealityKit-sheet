@@ -77,7 +77,7 @@ You have two options to do the conversion. See the pros and cons of them.
 
 This documentation shows a list of ShaderGraph nodes. ShaderGraph nodes are components for creating shaders provided by RealityKit, one of Apple's frameworks. Developers can create complex materials and visual effects using Reality Composer Pro's node-based material editor, or manipulate them programmatically through the API.
 
-![Image](files/List_of_ShaderGraph_Nodes_in_visionOS2_Nov2024.png)
+![Image](files/List_of_ShaderGraph_Nodes_in_visionOS2_Nov2024.png | width=300)
 
 - File [PDF](files/List_of_ShaderGraph_Nodes_in_visionOS2_Nov2024.pdf) [CC0]
 - File [Pages](files/List_of_ShaderGraph_Nodes_in_visionOS2_Nov2024.numbers) [CC0]
