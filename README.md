@@ -73,6 +73,15 @@ You have two options to do the conversion. See the pros and cons of them.
 
 </details>
 
+## ShaderGraph Nodes in RealityKit
+
+This documentation shows a list of ShaderGraph nodes. ShaderGraph nodes are components for creating shaders provided by RealityKit, one of Apple's frameworks. Developers can create complex materials and visual effects using Reality Composer Pro's node-based material editor, or manipulate them programmatically through the API.
+
+![Image](files/List_of_ShaderGraph_Nodes_in_visionOS2_Nov2024.png)
+
+- File [PDF](files/List_of_ShaderGraph_Nodes_in_visionOS2_Nov2024.pdf) [CC0]
+- File [Pages](files/List_of_ShaderGraph_Nodes_in_visionOS2_Nov2024.numbers) [CC0]
+
 ## MaterialX Nodes in RealityKit
 
 This document summarizes MaterialX Specification v1.38 and MaterialX Supplemental Notes v1.38, and describes the Standard MaterialX Nodes and RealityKit Custom Nodes.
@@ -80,7 +89,7 @@ It also shows correspondence between MaterialX Standard Nodes and RealityKit imp
 Information about RealityKit is based on the visionOS beta. It may change with the release.
 
 <details>
-<summary> Asset creation workflow (Click to expand) </summary>
+<summary> MaterialX Nodes in RealityKit (Click to expand) </summary>
 
 - File [PDF](files/MaterialXNodesInRealityKit_R01a.pdf)
 - File [Numbers](files/MaterialXNodesInRealityKit_R01a.numbers)
